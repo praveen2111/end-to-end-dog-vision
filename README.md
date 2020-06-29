@@ -1,6 +1,6 @@
 # end-to-end-dog-vision
 
-**🐶 Using Transfer Learning and TensorFlow 2.0 to Classify Different Dog Breeds
+**Using Transfer Learning and TensorFlow 2.0 to Classify Different Dog Breeds**
 
 Dogs are incredible. But have you ever been sitting at a cafe, seen a dog and not known what breed it is? I have. And then someone says, "it's an English Terrier" and you think, how did they know that?
 
